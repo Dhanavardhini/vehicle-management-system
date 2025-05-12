@@ -1,0 +1,8 @@
+.db-main{
+     display: flex;
+     background-image: url('../assets/depositphotos_52489449-stock-photo-man-offering-a-car-key.jpg');
+ 
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+}
